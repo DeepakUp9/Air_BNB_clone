@@ -37,6 +37,8 @@ gem 'bootstrap-sass', '~> 3.4.1'
 
 #for authentication 
 gem 'devise'
+# notification
+gem 'toastr-rails'
 
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 gem 'rails-ujs', '~> 0.1.0'
